@@ -4,3 +4,22 @@ components
 npx shadcn@latest init
 
 PS C:\Users\SHARJEEL\Desktop\figma_hackathon> npx shadcn@latest add button
+
+
+//theme
+top bar  : 000000
+hero  : F2F0F1
+
+
+npx shadcn@latest add dialog sheet input
+npx shadcn@latest add label radio-group
+
+
+
+{/* breadcrumb todo */}
+      <div>
+        <ProductGallery />
+        <ProductInfo />
+      </div>
+      <Tabs />
+      <GridCard />
