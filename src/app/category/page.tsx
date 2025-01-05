@@ -1,8 +1,14 @@
+import ProductListing from '@/components/category/productListing/ProductListing'
+import Sidebar from '@/components/category/sidebar/Sidebar'
 import React from 'react'
 
 const Category = () => {
   return (
-    <div>Category</div>
+    <>
+      {/* breadcrumb  todo */} 
+      <Sidebar />
+      <ProductListing />
+    </>
   )
 }
 

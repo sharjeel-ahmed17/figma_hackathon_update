@@ -2,7 +2,9 @@
 
 const TopBar = () => {
   return (
-    <div>TopBar</div>
+    <div>
+      top bar
+    </div>
   )
 }
 
